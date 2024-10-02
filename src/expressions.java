@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class expressions {
 
     public static void main(String[] args) {
 
@@ -26,6 +26,10 @@ public class Main {
 
         System.out.println("Witaj " +name);
         System.out.println("Czy papież lubi zęby myć? Odpowiedź: " +trueorfalse);
+
+        //expression = operands and operators
+        //operands = values, variables, numbers, quantity
+        //operators = + - * / %
 
     }
 }
