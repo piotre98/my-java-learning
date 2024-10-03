@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1783cdf-805b-410c-9c0c-df4a5f1c1692" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/random_numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/expressions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +40,7 @@
     "Application.Main.executor": "Run",
     "Application.expressions.executor": "Run",
     "Application.gui.executor": "Run",
+    "Application.random_numbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -49,7 +48,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.gui">
+  <component name="RunManager" selected="Application.random_numbers">
     <configuration name="expressions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="expressions" />
       <module name="MyJavaLearning" />
@@ -64,8 +63,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="random_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="random_numbers" />
+      <module name="MyJavaLearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.random_numbers" />
         <item itemvalue="Application.gui" />
         <item itemvalue="Application.expressions" />
       </list>
