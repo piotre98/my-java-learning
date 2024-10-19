@@ -6,7 +6,9 @@ public class string_methods {
 
         //boolean result = name.equals("Papaj");
 
-        int result = name.indexOf("j");
+        //int result = name.indexOf("j");
+
+        String result = name.replace('P', 'B');
 
         System.out.println(result);
 
